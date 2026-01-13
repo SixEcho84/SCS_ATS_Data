@@ -1,0 +1,24 @@
+company,containers,refrigerated,bulk,adr,construction,fragile,gooseneck,inloader,liquid,livestock,machinery,oversize,comment
+aport_ult,0,0,0,0,0,0,0,0,0,0,0,0,SCS - Use Custom Set
+aport_,1,1,0,0,0,0,0,0,0,0,0,0,SCS
+port_bea,1,1,0,0,0,0,0,0,0,0,0,0,SCS
+port_bro,1,1,0,0,0,0,0,0,0,0,0,0,SCS
+port_cor,1,1,0,0,0,0,0,0,0,0,0,0,SCS
+port_gal,1,1,0,0,0,0,0,0,0,0,0,0,SCS
+port_hou,1,1,0,0,0,0,0,0,0,0,0,0,SCS - Cont
+port_la,1,1,0,0,0,0,0,0,0,0,0,0,SCS - Cont
+port_no,1,1,0,0,0,0,0,0,0,0,0,0,SCS - Cont
+port_sea,1,1,0,0,0,0,0,0,0,0,0,0,SCS - Cont
+port_tac,1,1,0,0,0,0,0,0,0,0,0,0,SCS - Cont
+oak_port,1,1,0,0,0,0,0,0,0,0,0,0,SCS - Cont
+sf_port,1,1,0,0,0,0,0,0,0,0,0,0,SCS
+_train,1,1,0,0,0,0,0,0,0,0,0,0,SCS
+_trk_dlr,1,0,0,0,0,0,1,0,0,0,1,0,SCS
+_car_dlr,1,0,0,0,0,0,1,0,0,0,1,0,SCS
+_car_pln,1,1,1,1,1,1,1,1,1,0,1,1,SCS
+_crg_fwd,1,1,0,0,0,0,0,0,0,0,0,0,SCS
+_whs,1,1,0,0,0,0,0,0,0,0,0,0,SCS
+_wst_whs,1,1,1,1,1,1,1,1,1,1,1,1,SCS
+_car_whs,1,1,0,0,0,1,1,1,0,0,1,0,SCS
+_met_whs,1,1,1,1,1,1,1,1,1,1,1,1,SCS
+_con_svc,0,0,0,0,0,0,0,0,0,0,0,0,SCS - Use Custom Set

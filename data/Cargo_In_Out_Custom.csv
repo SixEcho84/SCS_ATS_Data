@@ -1,0 +1,7 @@
+moving_cont,soda_ash_b,scaffolding,ind_palet,waste_paper,used_pack,empty_palet
+R:_dlr:B,A:_qrya:O,R:_pln:B,R:_dlr:B,R:_port:B,R:_port:B,R:_port:B
+R:_mkt:B,,E:_met_pln:O,R:_mkt:B,R:port_:B,R:port_:B,R:port_:B
+R:_whs:B,,R:_mkt:B,R:_whs:B,R:_train:B,R:_train:B,R:_train:B
+,,R:_whs:B,,,,
+,,R:_saw:B,,,,
+,,R:_frm:B,,,,
